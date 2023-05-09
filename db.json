@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Deez",
+      "image": "https://pbs.twimg.com/media/Cfql8X4UsAINvhG.png",
+      "price": "69.69",
+      "id": 8
     }
   ]
 }
